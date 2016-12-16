@@ -1,0 +1,18 @@
+{
+  "context-menu": {
+    "atom-text-editor": [ ]
+  },
+  "menu": [{
+	  "label": "Packages",
+	  "submenu": [{
+		  "label": "Localnet Paste",
+		  "submenu": [{
+			  "label": "Set profile image",
+			  "command": "localnet-paste:profile-image"
+		  },{
+			  "label": "Paste clipboard to network",
+			  "command": "localnet-paste:paste"
+		  }]
+	  }]
+  }]
+}

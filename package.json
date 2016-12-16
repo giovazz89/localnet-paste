@@ -1,0 +1,15 @@
+{
+  "name": "localnet-paste",
+  "main": "./lib/localnet-paste",
+  "version": "0.0.0",
+  "description": "Paste your clipboard to other users in your local network",
+  "keywords": [
+  ],
+  "repository": "https://github.com/giovazz89/localnet-paste",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

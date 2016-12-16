@@ -1,0 +1,8 @@
+{
+	".platform-darwin": {
+		"cmd-shift-v": "localnet-paste:paste"
+	},
+	".platform-win32, .platform-linux": {
+		"ctrl-shift-v": "localnet-paste:paste"
+	}
+}
