@@ -21,7 +21,7 @@ When someone sends you his clipboard you can accept (or decline) directly from t
 
 ### Set your profile picture
 
-Set what your network pals are going to see as your profile image bu going to ```Packages > Localnet Paste > Set profile image```
+Set what your network pals are going to see as your profile image by going to ```Packages > Localnet Paste > Set profile image```
 
 
 ### Set your nickname
